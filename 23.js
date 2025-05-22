@@ -1,9 +1,9 @@
-  function insert_Row() {
-      var table = document.getElementById("sampleTable");
-      var row = table.insertRow();
-      var cell1 = row.insertCell(0);
-      var cell2 = row.insertCell(1);
-      cell1.innerHTML = "New Cell 1";
-      cell2.innerHTML = "New Cell 2";
-  }
-  
+  // Q.23
+        // function insrt() {
+        // const table = document.getElementById('tbl');
+        // const newRow = table.insertRow();
+        // const cell1 = newRow.insertCell(0);
+        // const cell2 = newRow.insertCell(1);
+        // cell1.innerHTML = 'New cell1';
+        // cell2.innerHTML = 'New cell2';
+        // }
